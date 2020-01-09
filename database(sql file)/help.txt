@@ -1,0 +1,3 @@
+create a database in localhost name "book_store" 
+
+and import the book_store.sql 
